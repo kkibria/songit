@@ -4,10 +4,10 @@ layout: SingleColumn
 ```
 
 # Contemporary Bengali Music Composition
-## Video Episodes: [Youtube link](https://www.youtube.com/watch?v=nV7FTUwxLGY&list=PL9rTtbhpDGVpwtr-I2d7MHsiSBFmqqrq5)
+## Watch video episodes: [Youtube link](https://www.youtube.com/watch?v=nV7FTUwxLGY&list=PL9rTtbhpDGVpwtr-I2d7MHsiSBFmqqrq5)
 
 ## To join discussion group
-### Facebook: https://tinyurl.com/songit or https://www.facebook.com/groups/2741600032723638
+### Facebook: [click this link](https://www.facebook.com/groups/2741600032723638) or goto <https://tinyurl.com/songit>
 
 ### Navigation
 #### Go to [Download Files page](#2) or press PageDown key,
