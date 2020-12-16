@@ -9,7 +9,8 @@
   },
   "publishDirs": [
     "md",
-    "images"
+    "images",
+    "zip"
   ],
   "author": "Khan Kibria",
   "license": "Use for slide presentation allowed",
