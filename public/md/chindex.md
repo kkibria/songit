@@ -19,6 +19,4 @@ layout: SingleColumn
 # Download Files
 ## Files used in the video presentations
 * Chapter 1 [zip](zip/chapter1.zip).
-* Chapter 2 (part 1) [zip](zip/chapter2.zip).
-
-
+* Chapter 2 (part 1) [zip](zip/chapter2-1.zip).
