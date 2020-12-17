@@ -14,7 +14,7 @@ layout: SingleColumn
 **Press** PageUp, PageDown,
 ``↑`` [Up-Arrow],
 ``↓`` [Down-Arrow], ``→`` [Right-Arrow]	or  
-``←`` [Left-Arrow] keys to navigate between the pages in this site.
+``←`` [Left-Arrow] keys or use mouse-wheel to navigate between the pages in this site.
 
 # Download Files
 ## Files used in the video presentations
