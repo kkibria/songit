@@ -10,6 +10,7 @@
   "publishDirs": [
     "md",
     "images",
+    "pdf",
     "zip"
   ],
   "author": "Khan Kibria",
