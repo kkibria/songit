@@ -26,7 +26,7 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     display: table-cell;
-    font-size: 20px;
+    font-size: 16px;
     padding: 1em 4em 1em 4em;
 }
 
@@ -42,7 +42,7 @@ h1, h2, h3 {
 }
 
 .remark-slide-content h1 {
-    font-size: 3em;
+    font-size: 2.5em;
 }
 
 .remark-slide-content h2 {
@@ -50,7 +50,7 @@ h1, h2, h3 {
 }
 
 .remark-slide-content h3 {
-    font-size: 1.6em;
+    font-size: 1.4em;
 }
 
 .footnote {
